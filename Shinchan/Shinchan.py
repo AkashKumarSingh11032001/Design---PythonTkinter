@@ -1,8 +1,8 @@
 from turtle import *
 #import time
 s=Screen()
-s.screensize(700,1000)
-speed(50)
+s.screensize(700,5000)
+speed(25)
 def myPosition(x, y):
     penup()
     goto(x, y)
